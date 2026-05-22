@@ -1,0 +1,7 @@
+{
+    "welcome": "Welcome to the application.",
+    "home": "Home",
+    "about": "About us",
+    "languageEN": "EN",
+    "description": "This is an example showing how to use i18next in a React application."
+}

@@ -1,6 +1,3 @@
-import img1 from "../assets/man.jpg";
-import img2 from "../assets/bus.jpg";
-import img3 from "../assets/people.jpg";
 
 export default function AboutSection() {
   return (
@@ -42,9 +39,9 @@ export default function AboutSection() {
         </div>
 
         <div className="secondSectionImg">
-          <img src={img1} alt="" />
-          <img src={img2} alt="" />
-          <img src={img3} alt="" />
+          <img src="./assets/man.jpg" alt="" />
+          <img src="./assets/bus.jpg" alt="" />
+          <img src="./assets/people.jpg" alt="" />
         </div>
 
       </div>
